@@ -1,0 +1,32 @@
+1. 
+a. Knowing what makes the website work, can be useful in knowing why something 
+might be taking a while to load, and you can appreciate the work and effort that
+went in to building it.
+b. As well as all of the stuff mentioned above, a professional developer could fix
+a problem if their website wasn't working right, and could even build their own
+website.
+
+2. Web crawlers are used to look over all the websites and find information to be 
+stored in the web index. The web index is where all the data about the websites are
+contained. Then, the search engine itself uses algorithms to figure out what the
+most relevant sites are.
+
+3. Crowd sourced data about search trends can help predict the future by examening
+the data of what people are searching for, and then can predict how people will
+react based on what they searched for. If a ton of people are all searching for 
+the same thing, the chances are that that thing is going to have influence in the
+future.
+
+4. If they didn't do this, they would be at threat of losing their domain, and 
+being taken down by the governing bodies of .com.
+
+5. The packets would be "lost" which means that the client side is not able to
+recieve the packets, so the data could not be transmitted.
+
+6. A high quality website has an easy to use GUI, and provides the information or
+services that the user is looking for. Ease of use is a huge difference between a
+high and low quality website.
+
+7. The basic function of the cookie is to remember what websites you have visited
+to give you information relative to what you've looked for in the past. It is 
+stored on the client-side machine by the web servers.
